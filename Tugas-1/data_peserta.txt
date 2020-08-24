@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Bayu Aditya Triwibowo
+2. Email: bayuuat@gmail.com
+3. Sistem Operasi yang digunakan: windows 64 bit
+4. Akun Gitlab: @bayuuat
+5. Akun Telegram: @bayuuat
